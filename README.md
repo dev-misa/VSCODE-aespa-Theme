@@ -1,4 +1,5 @@
-
+## Preview
+![Theme Preview](images/aespa-theme.png)
 # aespa-theme README
 ### aespa Theme for VSCode
     This is a fan-made theme for Visual Studio Code, inspired by the vibrant and colorful aesthetics of the K-pop girl group aespa. This theme is not an official product, and it is not affiliated, endorsed, or licensed by aespa or SM Entertainment.
